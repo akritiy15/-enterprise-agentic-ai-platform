@@ -159,8 +159,8 @@ enterprise-ai-agent-platform/
 ### 1. Clone the repository
 
 ```bash
-   git clone https://github.com/akritiy15/-enterprise-agentic-ai-platform.git
-   cd -- -enterprise-agentic-ai-platform
+   git clone https://github.com/akritiy15/enterprise-agentic-ai-platform.git
+   cd -- enterprise-agentic-ai-platform
 ```
 
 ### 2. Create a virtual environment
